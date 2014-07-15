@@ -1,0 +1,15 @@
+/*#show-contact {
+  display: none;
+}*/
+.toDoItem {
+  cursor: pointer;
+  color: #0088cc;
+  font-size: x-large;
+}
+.toDoItem:hover {
+  text-decoration: underline;
+
+}
+.toDoItem-clicked {
+  text-decoration: line-through;
+}
